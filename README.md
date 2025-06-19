@@ -14,7 +14,7 @@
 🚶‍♀️ When I'm not coding, I'm probably out walking.
 
 ## About me
----
+
 A graduate from the Islamia University, Bahawalpur. I'm always learning and trying new things. I'm interested in getting skilled in front-end development to stay creative. Excited to build web applications to show and share with my friends!
 
 What I've done so far
@@ -26,7 +26,6 @@ What I've done so far
 💰 9 million transactions generated for clients
 
 ## Portfolio
----
 
 - Shopify
   - https://www.investmentwatches.com/
