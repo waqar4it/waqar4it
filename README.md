@@ -18,7 +18,7 @@
 A graduate from the Islamia University, Bahawalpur. I'm always learning and trying new things. I'm interested in getting skilled in front-end development to stay creative. Excited to build web applications to show and share with my friends!
 
 What I've done so far
-🏆 Developed 1800+ Websites
+🏆 Developed 1800+ Websites<br/>
 💎 Worked with Fortune 500 companies
 ✅ 100+ Satisfied Clients.
 ✅ WordPress Expert with 12+ years of experience
